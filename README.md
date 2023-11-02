@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://jacksonmcdonald.me](https://jacksonmcdonald.me)
 
+- 💬 Ask me about **My GRAMMY**
+
 - 📫 How to reach me **jacksonmcdonalddev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
