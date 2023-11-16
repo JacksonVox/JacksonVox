@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson.</h1>
-<h3 align="center">A full-stack developer with a past life as a musician.</h3>
+<h3 align="center">A full-stack software engineer with a past life as a musician.</h3>
 
 - 🔭 I’m currently working on **LessonLink - Music Teaching Tools**
 
