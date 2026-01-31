@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jackson.</h1>
-<h3 align="center">Technical Product Manager | Product Consultant</h3>
+<h1 align="center">I'm Jackson</h1>
+<h3 align="center">Software Engineer | Product Manager</h3>
 <p align="center">
   <em>Bridging the gap between Business Strategy and Engineering Execution.</em>
 </p>
